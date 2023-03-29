@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.cross{
+  text-decoration: line-through;
+}
+
+.high-score{
+  background-color: gold;
+}
+
+.medium-score{
+  background-color: blue;
+}
+.low-score{
+  background-color: red;
+}
